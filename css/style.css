@@ -141,7 +141,7 @@ nav {
 }
 
 .down-arrow:hover svg path {
-    fill: #d67b8e;
+    fill: #778fdd;
     -webkit-transition: fill 800ms;
     transition: fill 800ms;
 }
